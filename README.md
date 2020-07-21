@@ -24,7 +24,7 @@ Start.ageCl: Age-class of the bird when first seen and ringed. N for nestling, F
 
 Start.Error: Uncertainty of hatch date in days
 
-Season: Breedomg season in which the sample pair was taken. Each breeding season starts between September and November (depending on conditions), and ends between March and May the following calendar year.  
+Season: Breeding season in which the sample pair was taken. Each breeding season starts between September and November (depending on conditions), and ends between March and May the following calendar year.  
 
 Season.plus: takes the form of season_1 or season_2. The number represents whether the sample was taken at the beginning (1) or end (2) of the breeding (1) season. This variable is used in the age-partition model as a random effect.  
 
